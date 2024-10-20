@@ -6,7 +6,7 @@
 - ⚡ Fun fact:
   My favourite number, 169, has some interesting properties:
 - it is a perfect square number, 13*13=169
-- its square equation is pallendromic, 961=31*31
+- its square equation is palindromic, 961=31*31
 - In Chinese culture the number 169 is sometimes associated with prosperity and good fortune
 - it is the sum of 7 consecutive primes: 13, 17, 19, 23, 29, 31, and 37
 

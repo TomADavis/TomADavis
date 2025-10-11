@@ -3,7 +3,7 @@ Hi there, I'm Tom 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api%3Fusername%3DTomADavis%26show_icons%3Dtrue%26theme%3Ddracula%26line_height%3D27" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/your-github-username">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages"/>
 </a>
 
 👨‍💻 About Me
@@ -23,17 +23,17 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 Languages:
 
 <p>
-<a href="#"><img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB.svg%3Flogo%3Dpython%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="JavaScript" src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E.svg%3Flogo%3Djavascript%26logoColor%3Dblack"></a>
-<a href="#"><img alt="HTML5" src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26.svg%3Flogo%3Dhtml5%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="CSS3" src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6.svg%3Flogo%3Dcss3%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg%3Flogo%3Dpython%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg%3Flogo%3Djavascript%26logoColor%3Dblack"></a>
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg%3Flogo%3Dhtml5%26logoColor%3Dwhite"></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg%3Flogo%3Dcss3%26logoColor%3Dwhite"></a>
 <!-- Add more languages as needed -->
 </p>
 
 🔗 Connect with Me
 <p>
-<a href="https://www.linkedin.com/in/thomas-davis-299708287" target="_blank"><img alt="LinkedIn" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2.svg%3Flogo%3Dlinkedin%26logoColor%3Dwhite"></a>
-<a href="[your-portfolio-website-url]" target="_blank"><img alt="Portfolio" src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-4682B4.svg%3Flogo%3Dfirefox%26logoColor%3Dwhite"></a>
+<a href="https://www.linkedin.com/in/thomas-davis-299708287" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg%3Flogo%3Dlinkedin%26logoColor%3Dwhite"></a>
+<a href="[your-portfolio-website-url]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4682B4.svg%3Flogo%3Dfirefox%26logoColor%3Dwhite"></a>
 </p>
 
 <!---

@@ -1,6 +1,6 @@
 Hi there, I'm Tom 👋
 <a href="https://github.com/your-github-username">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Ddracula%26line_height%3D27" alt="GitHub Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api%3Fusername%3DTomADavis%26show_icons%3Dtrue%26theme%3Ddracula%26line_height%3D27" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/your-github-username">
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages"/>

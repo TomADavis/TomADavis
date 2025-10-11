@@ -1,4 +1,4 @@
-Hi there, I'm Tom 👋
+Hi, I'm Tom 👋
 
 <a href="https://github.com/TomADavis">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TomADavis&show_icons=true&theme=dracula&line_height=27" alt="GitHub Stats"/>

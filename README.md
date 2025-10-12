@@ -37,7 +37,7 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 ### 🔗 Connect with Me
 <p>
 <a href="https://www.linkedin.com/in/thomas-davis-299708287" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
-<a href="#" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4682B4.svg?logo=firefox&logoColor=white"></a>
+<a href="https://tomadavis.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4682B4.svg?logo=firefox&logoColor=white"></a>
 </p>
 
 <!---

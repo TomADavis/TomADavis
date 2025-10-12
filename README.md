@@ -1,10 +1,10 @@
 Hi, I'm Tom 👋
 
 <a href="https://github.com/TomADavis">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomADavis&show_icons=true&theme=dracula&line_height=27" alt="GitHub Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomADavis&show_icons=true&theme=dracula&line_height=27%26cache_seconds%3D3600" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/TomADavis">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomADavis&layout=compact&theme=dracula" alt="Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomADavis&layout=compact&theme=dracula%26cache_seconds=3600" alt="Top Languages"/>
 </a>
 
 ### 👨‍💻 About Me

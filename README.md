@@ -10,7 +10,7 @@ Hi, I'm Tom 👋
 ### 👨‍💻 About Me
 I'm an undergraduate mathematics student at Queen Mary University of London based in Grays, England. I'm passionate about Data science and Machine Learning.
 
-**🔭 I’m currently working on: a Predictive Pokémon Battle Engine.** .
+**🔭 I’m currently working on: ** .
 
 **🌱 Outside of Uni** I’m currently learning to use Python Libraries: Pandas, NumPy, Matplotlib, and Scikit-learn
 

@@ -29,8 +29,6 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 
 ###  My Skills
 
-**Data Science and Machine Learning Libraries:** Pandas, NumPy, Matplotlib, and Scikit-learn
-
 **Languages:**
 
 <p>
@@ -39,7 +37,8 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
-***
+
+**Data Science and Machine Learning Libraries:** Pandas, NumPy, Matplotlib, and Scikit-learn
 
 ### 🔗 Connect with Me
 <p>

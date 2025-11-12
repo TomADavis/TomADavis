@@ -10,11 +10,16 @@ Hi, I'm Tom 👋
 ### 👨‍💻 About Me
 I'm an undergraduate mathematics student at Queen Mary University of London based in Grays, England. I'm passionate about Data science and Machine Learning.
 
-**🔭 I’m currently working on: ** .
+**🔭 I’m currently working on::** Rideshare KPI in SQL
 
-**🌱 Outside of Uni** I’m currently learning to use Python Libraries: Pandas, NumPy, Matplotlib, and Scikit-learn
+**🌱 Outside of Uni** I’m currently learning to
 
 **📚 Inside of Uni** I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
+
+**🧠 Learned Skills:** 
+- Languages: Python, R, HTML, CSS, Javascript
+- Data Science and Machine Learning Libraries: Pandas, NumPy, Matplotlib, and Scikit-learn
+- 
 
 **📫 How to reach me:** tomanthonydavis@gmail.com
 
@@ -22,7 +27,10 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 
 ***
 
-### 🛠️ My Skills
+###  My Skills
+
+**Data Science and Machine Learning Libraries:** Pandas, NumPy, Matplotlib, and Scikit-learn
+
 **Languages:**
 
 <p>
@@ -31,7 +39,6 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
-
 ***
 
 ### 🔗 Connect with Me

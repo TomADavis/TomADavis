@@ -10,16 +10,11 @@ Hi, I'm Tom 👋
 ### 👨‍💻 About Me
 I'm an undergraduate mathematics student at Queen Mary University of London based in Grays, England. I'm passionate about Data science and Machine Learning.
 
-**🔭 I’m currently working on::** Rideshare KPI in SQL
+**🔭 I’m currently working on:** Rideshare KPI in SQL
 
 **🌱 Outside of Uni** I’m currently learning to
 
 **📚 Inside of Uni** I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
-
-**🧠 Learned Skills:** 
-- Languages: Python, R, HTML, CSS, Javascript
-- Data Science and Machine Learning Libraries: Pandas, NumPy, Matplotlib, and Scikit-learn
-- 
 
 **📫 How to reach me:** tomanthonydavis@gmail.com
 

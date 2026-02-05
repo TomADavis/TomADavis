@@ -14,7 +14,7 @@ EXCLUDE_REPOS = {
     # "some-repo-name",
 }
 EXCLUDE_LANGS = {
-    "Jupyter Notebook"
+    # "Jupyter Notebook"
 }
 MAX_ROWS = 10
 

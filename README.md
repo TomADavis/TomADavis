@@ -16,9 +16,15 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 
 **🔭 I’m currently working on:** Learning SQL for a project I have on hold
 
-**🌱 Outside of Uni** I’m currently learning to use python and R and apply them to large data sets while being the admin for my archery clubs website <a href = "https://www.pantherfieldarchery.club">visit here</a>
+**🌱 Outside of Uni** 
 
-**📚 Inside of Uni** I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
+- I’m currently learning to use python and R and apply them to large data sets
+- Working as the admin for my archery clubs website <a href = "https://www.pantherfieldarchery.club">visit here</a>
+
+**📚 Inside of Uni** 
+
+- I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
+- I’m currently learning to use python and R and apply them to small data sets
 
 **📫 How to reach me:** tomanthonydavis@gmail.com
 

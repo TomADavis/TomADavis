@@ -8,6 +8,15 @@ Hi, I'm Tom 👋
 </a>
 
 <!-- LANGUAGES:START -->
+### 📊 Language usage (auto-updated)
+
+| Language | Share | Usage |
+|---|---:|:---|
+| Jupyter Notebook | 98.2% | `██████████████████` |
+| Python | 1.6% | `                  ` |
+| CSS | 0.1% | `                  ` |
+| HTML | 0.1% | `                  ` |
+| JavaScript | 0.0% | `                  ` |
 <!-- LANGUAGES:END -->
 
 ### 👨‍💻 About Me

@@ -16,7 +16,7 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 
 **🔭 I’m currently working on:** Learning SQL for a project I have on hold
 
-**🌱 Outside of Uni** I’m currently learning to
+**🌱 Outside of Uni** I’m currently learning to use python and R and apply them to large data sets
 
 **📚 Inside of Uni** I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
 

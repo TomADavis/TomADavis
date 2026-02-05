@@ -1,16 +1,14 @@
 Hi, I'm Tom 👋
 
 <a href="https://github.com/TomADavis">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=TomADavis&show_icons=true&theme=dracula&line_height=27&cache_seconds=3600"
-       alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+    <img align="center" src="./assets/languages-light.svg" alt="Languages used across repositories" />
+  </picture>
 </a>
 
-<a href="https://github.com/TomADavis">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomADavis&layout=compact&theme=dracula&cache_seconds=3600"
-       alt="Top Languages" />
-</a>
+<!-- LANGUAGES:START -->
+<!-- LANGUAGES:END -->
 
 ### 👨‍💻 About Me
 I'm an undergraduate mathematics student at Queen Mary University of London based in Grays, England. I'm passionate about Data science and Machine Learning.

@@ -15,7 +15,6 @@ EXCLUDE_REPOS = {
 }
 EXCLUDE_LANGS = {
     # "Jupyter Notebook",
-    # "TeX",
 }
 MAX_ROWS = 10
 

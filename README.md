@@ -1,12 +1,5 @@
 Hi, I'm Tom 👋
 
-<a href="https://github.com/TomADavis">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
-    <img align="center" src="./assets/languages-light.svg" alt="Languages used across repositories" />
-  </picture>
-</a>
-
 <!-- LANGUAGES:START -->
 ### 📊 Language usage (auto-updated)
 

@@ -14,14 +14,15 @@ Hi, I'm Tom 👋
 ### 👨‍💻 About Me
 I'm an undergraduate mathematics student at Queen Mary University of London based in Grays, England. I'm passionate about Data science and Machine Learning.
 
-**🔭 I’m currently working on:** Learning SQL for a project I have on hold
+**💻 I’m currently working on:** Research for my next project
 
-**🌱 Outside of Uni** 
+**🔍 Outside of Uni** 
 
-- I’m currently learning to use python and R and apply them to large data sets
-- Working as the admin for my archery clubs website <a href = "https://www.pantherfieldarchery.club">visit here</a>
+- I’m currently learning to apply python and R to large data sets.
+- Working as the admin for my archery clubs website <a href = "https://www.pantherfieldarchery.club">visit here</a>.
+- learning SQL.
 
-**📚 Inside of Uni** 
+**🎓 Inside of Uni** 
 
 - I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
 - I’m currently learning to use python and R and apply them to small data sets

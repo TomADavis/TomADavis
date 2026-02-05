@@ -1,7 +1,7 @@
 Hi, I'm Tom 👋
 
 <!-- LANGUAGES:START -->
-### 📊 Language usage (auto-updated)
+### 📊 Language usage
 
 | Language | Share | Usage |
 |---|---:|:---|

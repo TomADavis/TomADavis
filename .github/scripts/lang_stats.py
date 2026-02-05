@@ -9,7 +9,7 @@ from collections import defaultdict
 
 GRAPHQL_URL = "https://api.github.com/graphql"
 
-# Optional: tune these if you want
+# DON'T FORGET THIS IS HERE !!!
 EXCLUDE_REPOS = {
     # "some-repo-name",
 }
@@ -74,7 +74,7 @@ def bar(p: float, width: int = 18) -> str:
 
 def make_table(items, total_bytes: int) -> str:
     lines = [
-        "### 📊 Language usage (auto-updated)",
+        "### 📊 Language usage",
         "",
         "| Language | Share | Usage |",
         "|---|---:|:---|",

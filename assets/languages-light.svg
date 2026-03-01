@@ -3,19 +3,19 @@
 <text x="18" y="30" fill="#24292f" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">Languages used across repositories</text>
 <text x="18" y="48" fill="#57606a" font-size="12" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">GitHub Linguist byte counts</text>
 <text x="18" y="63" fill="#24292f" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">Python</text>
-<text x="210" y="63" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">90.2%</text>
+<text x="210" y="63" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">90.9%</text>
 <rect x="240" y="54" width="482" height="10" rx="5" fill="#eaeef2"/>
-<rect x="240" y="54" width="434.93" height="10" rx="5" fill="#0969da"/>
+<rect x="240" y="54" width="438.21" height="10" rx="5" fill="#0969da"/>
 <text x="18" y="89" fill="#24292f" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">HTML</text>
-<text x="210" y="89" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">3.9%</text>
+<text x="210" y="89" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">3.6%</text>
 <rect x="240" y="80" width="482" height="10" rx="5" fill="#eaeef2"/>
-<rect x="240" y="80" width="18.68" height="10" rx="5" fill="#0969da"/>
+<rect x="240" y="80" width="17.37" height="10" rx="5" fill="#0969da"/>
 <text x="18" y="115" fill="#24292f" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">CSS</text>
-<text x="210" y="115" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">3.8%</text>
+<text x="210" y="115" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">3.6%</text>
 <rect x="240" y="106" width="482" height="10" rx="5" fill="#eaeef2"/>
-<rect x="240" y="106" width="18.44" height="10" rx="5" fill="#0969da"/>
+<rect x="240" y="106" width="17.16" height="10" rx="5" fill="#0969da"/>
 <text x="18" y="141" fill="#24292f" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">JavaScript</text>
-<text x="210" y="141" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">2.1%</text>
+<text x="210" y="141" fill="#57606a" font-size="13" text-anchor="end" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">1.9%</text>
 <rect x="240" y="132" width="482" height="10" rx="5" fill="#eaeef2"/>
-<rect x="240" y="132" width="9.95" height="10" rx="5" fill="#0969da"/>
+<rect x="240" y="132" width="9.26" height="10" rx="5" fill="#0969da"/>
 </svg>

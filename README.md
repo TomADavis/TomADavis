@@ -24,7 +24,7 @@ I'm an undergraduate mathematics student at Queen Mary University of London base
 
 **🎓 Inside of Uni** 
 
-- I'm currently learning skills in Analysis, Probability & Stats and Linear Algebra.
+- I'm currently learning skills in Analysis, Optimisation, Statistical Modelling and Python.
 - I’m currently learning to use python and R and apply them to small data sets
 
 **📫 How to reach me:** tomanthonydavis@gmail.com

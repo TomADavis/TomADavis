@@ -5,9 +5,9 @@ Hi, I'm Tom 👋
 
 | Language | Share | Usage |
 |---|---:|:---|
-| Python | 90.9% | `████████████████  ` |
-| HTML | 3.6% | `█                 ` |
-| CSS | 3.6% | `█                 ` |
+| Python | 91.1% | `████████████████  ` |
+| HTML | 3.5% | `█                 ` |
+| CSS | 3.5% | `█                 ` |
 | JavaScript | 1.9% | `                  ` |
 <!-- LANGUAGES:END -->
 

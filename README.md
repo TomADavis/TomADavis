@@ -5,10 +5,10 @@ Hi, I'm Tom 👋
 
 | Language | Share | Usage |
 |---|---:|:---|
-| Python | 91.1% | `████████████████  ` |
-| HTML | 3.5% | `█                 ` |
-| CSS | 3.5% | `█                 ` |
-| JavaScript | 1.9% | `                  ` |
+| Python | 92.8% | `█████████████████ ` |
+| HTML | 2.9% | `█                 ` |
+| CSS | 2.8% | `█                 ` |
+| JavaScript | 1.5% | `                  ` |
 <!-- LANGUAGES:END -->
 
 ### 👨‍💻 About Me

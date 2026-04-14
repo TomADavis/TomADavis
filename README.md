@@ -6,7 +6,7 @@ Hi, I'm Tom 👋
 | Language | Share | Usage |
 |---|---:|:---|
 | Python | 92.8% | `█████████████████ ` |
-| HTML | 2.9% | `█                 ` |
+| HTML | 2.8% | `█                 ` |
 | CSS | 2.8% | `█                 ` |
 | JavaScript | 1.5% | `                  ` |
 <!-- LANGUAGES:END -->
